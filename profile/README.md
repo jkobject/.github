@@ -1,13 +1,13 @@
-<!--
-## Hi there 👋
+# Machine Learning for Integrative Genomics (ML4IG)
 
 
+## Lab Head: Laura Cantini 
 
-**Here are some ideas to get you started:**
+### (X: @laucan88)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Introduction
+Single-cell high-throughput sequencing, a major breakthrough in life sciences, allows to access the integrated molecular profiles of thousands of cells in a single experiment. This abundance of data provides tremendous power to unveil unknown cellular mechanisms. However, single-cell data are so massive and complex that it has become challenging to give clues to their underlying biological processes.
+
+The machine learning for integrative genomics G5 group works at the interphase of machine learning and genomics, developing methods exploiting the full richness and complementarity of the available single-cell data to derive actionable biological knowledge.
+
