@@ -1,9 +1,5 @@
 # Machine Learning for Integrative Genomics (ML4IG)
 
-
-## Lab Head: Laura Cantini (@laucan88)
-
-
 ## Summary
 
 We are a G5 research group led by Laura Cantini ([@laucan88](https://x.com/laucan88)) and located at the [Institut Pasteur](https://research.pasteur.fr/en/team/machine-learning-for-integrative-genomics/) (Paris, FR).
