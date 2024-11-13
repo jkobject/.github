@@ -1,4 +1,5 @@
-[<img alt="Cantini Lab" src="https://raw.githubusercontent.com/cantinilab/.github/main/profile/logos/cantinilab.png" align="right" width="180"/>]([https://saezlab.org/](https://research.pasteur.fr/en/team/machine-learning-for-integrative-genomics/))
+<!--- [<img alt="Cantini Lab" src="https://raw.githubusercontent.com/cantinilab/.github/main/profile/logos/cantinilab.png" align="right" width="180"/>]([https://saezlab.org/](https://research.pasteur.fr/en/team/machine-learning-for-integrative-genomics/)) -->
+
 
 # Welcome to Cantini Lab!
 
