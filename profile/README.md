@@ -20,5 +20,5 @@ The [machine learning for integrative genomics G5 group](https://research.pasteu
 |[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/python.svg" height="16">](https://github.com/cantinilab/circe) [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/package.svg" height="16"><sub><sup> PYPI</sup></sub>](https://pypi.org/project/circe-py/) 
 
 ### Other resources
-| [<img alt="DataLoader" src="![image]()" width="200"/>](https://github.com/cantinilab/scDataLoader) | [<img alt="benGRN" src="![image]()" width="200"/>](https://github.com/cantinilab/bengrn) |
+| [<img alt="DataLoader" src="![image](https://raw.githubusercontent.com/cantinilab/.github/profile/logos/python.svg)" width="200"/>](https://github.com/cantinilab/scDataLoader) | [<img alt="benGRN" src="![image](https://raw.githubusercontent.com/cantinilab/.github/profile/logos/python.svg)" width="200"/>](https://github.com/cantinilab/bengrn) |
 | --- | --- |
