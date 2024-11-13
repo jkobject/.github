@@ -3,7 +3,7 @@
 # Welcome to Cantini Lab!
 
 
-Single-cell high-throughput sequencing, a major breakthrough in life sciences, allows to access the integrated molecular profiles of thousands of cells in a single experiment. This abundance of data provides tremendous power to unveil unknown cellular mechanisms. However, single-cell data are so massive and complex that it has become challenging to give clues to their underlying biological processes.
+Single-cell high-throughput sequencing, a major breakthrough in life sciences, allows us to access the integrated molecular profiles of thousands of cells in a single experiment. This abundance of data provides tremendous power to unveil unknown cellular mechanisms. However, single-cell data are so massive and complex that it has become challenging to give clues to their underlying biological processes.
 
 The [machine learning for integrative genomics G5 group](https://research.pasteur.fr/en/team/machine-learning-for-integrative-genomics/) works at the interphase of machine learning and genomics, developing methods exploiting the full richness and complementarity of the available single-cell data to derive actionable biological knowledge.
 
@@ -18,6 +18,6 @@ The [machine learning for integrative genomics G5 group](https://research.pasteu
 | **CIRCE**: Predict cis-regulatory interactions between DNA regions |
 |[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/python.svg" height="16">](https://github.com/cantinilab/circe) [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/package.svg" height="16"><sub><sup> PYPI</sup></sub>](https://pypi.org/project/circe-py/)
 
-### Other ressources
-| [<img alt="DataLoader" src="https://raw.githubusercontent.com/r-trimbour/.github/main/profile/logos/dataloader.png" width="200"/>](https://github.com/cantinilab/dataloader) | [<img alt="benGRN" src="https://raw.githubusercontent.com/r-trimbour/.github/main/profile/logos/bengrn.png" width="200"/>](https://github.com/cantinilab/bengrn) |
+### Other resources
+| [<img alt="DataLoader" src="![image](https://github.com/user-attachments/assets/9598bce8-84d4-4d14-96fc-0ca8fda8ebc7)" width="200"/>](https://github.com/cantinilab/scDataLoader) | [<img alt="benGRN" src="![image](https://github.com/user-attachments/assets/19a327e5-02a0-4dca-9d5b-643d193eed30)" width="200"/>](https://github.com/cantinilab/bengrn) |
 | --- | --- |
